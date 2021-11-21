@@ -12,8 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a627cd7d-07f3-42dd-bba3-daf4f851d557" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitExercise.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
       <workItem from="1637454044456" duration="55000" />
       <workItem from="1637457347067" duration="32000" />
       <workItem from="1637457399135" duration="5000" />
+      <workItem from="1637461430391" duration="11000" />
     </task>
     <servers />
   </component>

@@ -5,4 +5,5 @@ int main() {
     std::cout<<"lin"<<std::endl;
     std::cout<<"lindadada"<<std::endl;
     return 0;
-}
+
+ikajfjoiasdfj}
